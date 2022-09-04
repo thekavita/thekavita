@@ -9,19 +9,20 @@
 
 - 🌱 I’m currently learning **Java , Optimization algorithms**
 
-- 👯 I’m looking to collaborate on **with other enthusiasts**
+- 👯 I’m looking to collaborate  **with other enthusiasts**
 
 - 💬 Ask me about **Anything I'm happy to help**
 
 - 📫 How to reach me **kavitavsd@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/Kavita%20Raikwar.pdf](file:///C:/Users/hp/Downloads/Kavita%20Raikwar.pdf)
+
 
 - ⚡ Fun fact **I have very deep passion for technology and till now I am unemployed...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thekavita-raikwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thekavita-raikwar" height="30" width="40" /></a>
+
 <a href="https://instagram.com/the.kavita24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.kavita24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thekavita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thekavita" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kavitavsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kavitavsd" height="30" width="40" /></a>
